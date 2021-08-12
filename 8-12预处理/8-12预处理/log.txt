@@ -1,0 +1,10 @@
+file:c:\比特鹏哥c语言\8-12预处理\8-12预处理\test.c line:19 date:Aug 12 2021 time:22:27:57 i=0
+file:c:\比特鹏哥c语言\8-12预处理\8-12预处理\test.c line:19 date:Aug 12 2021 time:22:27:57 i=1
+file:c:\比特鹏哥c语言\8-12预处理\8-12预处理\test.c line:19 date:Aug 12 2021 time:22:27:57 i=2
+file:c:\比特鹏哥c语言\8-12预处理\8-12预处理\test.c line:19 date:Aug 12 2021 time:22:27:57 i=3
+file:c:\比特鹏哥c语言\8-12预处理\8-12预处理\test.c line:19 date:Aug 12 2021 time:22:27:57 i=4
+file:c:\比特鹏哥c语言\8-12预处理\8-12预处理\test.c line:19 date:Aug 12 2021 time:22:27:57 i=5
+file:c:\比特鹏哥c语言\8-12预处理\8-12预处理\test.c line:19 date:Aug 12 2021 time:22:27:57 i=6
+file:c:\比特鹏哥c语言\8-12预处理\8-12预处理\test.c line:19 date:Aug 12 2021 time:22:27:57 i=7
+file:c:\比特鹏哥c语言\8-12预处理\8-12预处理\test.c line:19 date:Aug 12 2021 time:22:27:57 i=8
+file:c:\比特鹏哥c语言\8-12预处理\8-12预处理\test.c line:19 date:Aug 12 2021 time:22:27:57 i=9
